@@ -46,3 +46,7 @@ python3 bot.py
 • [Mʀ. A | Ts Bots](https://t.me/Trackstudio)
 
 • [DIAGO !](https://t.me/DIAGO_X)
+
+### Special Thanks 
+
+• Special thanks to @TrojanzHex For This repo ❤
